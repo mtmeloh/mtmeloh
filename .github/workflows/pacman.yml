@@ -1,0 +1,42 @@
+
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências do Pac-Man
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Gerar Pac-Man contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          username: mtmeloh
+          settings: |
+            pacman
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar gráficos
+        run: |
+          mkdir -p output
+          mv *pacman*.svg output/
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "Atualizar Pac-Man contribution graph" || echo "Nada para atualizar"
+          git push
