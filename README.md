@@ -3,6 +3,11 @@
 
 <h2 align="center">I'm a Full-Stack Developer in Progress 🚀</h2>
 
+<!-- Pac-Man animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/pacman.svg" width="300" alt="Pac-Man animation"/>
+</div>
+
 ---
 
 ### 👨‍💻 Sobre mim  
@@ -48,15 +53,4 @@ Atualmente estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Jav
 
 <!--
 **mtmeloh/mtmeloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
