@@ -1,47 +1,37 @@
-# Olá, eu sou o Mateus Melo! 👋
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4B0082&height=180&section=header&text=Welcome!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Full-Stack Developer in Progress 🚀
+<h2 align="center">I'm a Full-Stack Developer in Progress 🚀</h2>
 
-Sou estudante de **Sistemas de Informação** apaixonado por tecnologia e em constante evolução. Atualmente, foco meus estudos no ecossistema do desenvolvimento web, buscando criar soluções eficientes e escaláveis.
 
----
+### 👨‍💻 Sobre mim  
+Meu nome é **Mateus Melo**, sou estudante de **Sistemas de Informação**.  
+Tenho interesse em atuar como **desenvolvedor Full Stack**, com foco em aprender continuamente e aplicar meus conhecimentos em projetos práticos.  
 
-## 👨‍💻 Sobre Mim
-- 🎓 Cursando **Sistemas de Informação**.
-- 📍 Localizado em Valentim Gentil, SP.
-- 🎯 Objetivo: Atuar como **Desenvolvedor Full Stack**.
-- 🌱 No momento, estou aprimorando minhas habilidades em **Java (Spring Boot)** e **JavaScript (React/Node)**.
+Atualmente estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Java**, buscando evoluir cada vez mais na área de desenvolvimento web.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧠 Conhecimentos  
+<div align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtmeloh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtmeloh&layout=compact&langs_count=7&theme=dark" />
-</p>
+### 🌐 Conecte-se comigo  
+<div align="center">
+  <a href="https://www.linkedin.com/in/mt-meloh1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:0D1117&height=120&section=footer"/>
 
----Hub profile.
--->
+<!--
