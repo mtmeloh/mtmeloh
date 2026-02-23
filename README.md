@@ -6,13 +6,15 @@
 <h2 align="center">I'm a Full-Stack Developer in Progress 🚀</h2>
 
 
-### 👨‍💻 Sobre mim  
-Meu nome é **Mateus Melo**, sou estudante de **Sistemas de Informação**.  
-Tenho interesse em atuar como **desenvolvedor Full Stack**, com foco em aprender continuamente e aplicar meus conhecimentos em projetos práticos.  
+👨‍💻 Sobre mim
 
-Atualmente estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Java**, buscando evoluir cada vez mais na área de desenvolvimento web.
+Meu nome é **Mateus Melo**, sou estudante de **Sistemas de Informação** com foco em desenvolvimento de software e construção de aplicações web.
 
----
+Tenho interesse em atuar como Desenvolvedor Full Stack, com maior direcionamento para Back-end, buscando aprofundar conhecimentos em arquitetura de sistemas, APIs e boas práticas de desenvolvimento.
+
+Atualmente estou evoluindo minhas habilidades em conhecimentos Full-Stack como: Java, Spring Boot, PostegreSQL, HTML, CSS, JS e etc. Aplicando o que aprendo em projetos práticos, com foco em organização de código, lógica e estrutura de sistemas.
+
+Estou em constante aprendizado, sempre buscando melhorar a qualidade das minhas soluções e expandir minha base técnica.
 
 ### 🧠 Conhecimentos  
 <div align="center">
