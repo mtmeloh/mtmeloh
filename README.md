@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4B0082&height=180&section=header&text=Welcome!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=180&section=header&text=Welcome!&fontSize=45&fontColor=4A4A4A&animation=twinkling&fontAlignY=35"/>
+</p>
 
 <h2 align="center">I'm a Full-Stack Developer in Progress 🚀</h2>
 
@@ -18,6 +20,10 @@ Atualmente estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Jav
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ---
@@ -32,6 +38,6 @@ Atualmente estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Jav
 ---
 
 <!-- Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=footer"/>
 
 <!--
